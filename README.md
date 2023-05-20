@@ -1,0 +1,1 @@
+A CLI tool to view premier league fixtures.
